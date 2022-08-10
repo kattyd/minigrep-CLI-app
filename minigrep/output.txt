@@ -1,0 +1,5 @@
+Searching for th
+In file poem.txt
+including operators and other symbols 
+that appear by themselves or in the
+ context of paths, generics, trait bounds, 
